@@ -75,3 +75,6 @@ content: >
   Understanding this structure is crucial for effectively working with files in
   programming, especially when using languages like Python to read from or write
   to files.
+showEditor: true
+editors:
+  - course1/unit1/lesson1/lessonpart1/newFile.py
