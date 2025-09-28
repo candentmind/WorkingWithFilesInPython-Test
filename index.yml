@@ -10,5 +10,7 @@ contacts:
 files:
   - path: course1/unit1/lesson1/lessonpart1/newFile.py
     content: print("Hello World..")
+  - path: course1/globalPython.py
+    content: print("FROM GLOBAL")
 units:
   - unit1/index.yml
